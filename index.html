@@ -9,6 +9,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
+    <!-- 滚动进度条 -->
+    <div class="scroll-progress"></div>
+
     <header class="header">
         <nav class="navbar">
             <div class="nav-container">
@@ -200,9 +203,9 @@
                         <div class="tab-content active" id="core">
                             <div class="examples-grid">
                                 <!-- 这里将添加核心能力展示的例子 -->
-                                <div class="example-card" data-example="1">
+                                <div class="example-card" data-example="1" data-searchable>
                                     <div class="example-image">
-                                        <img src="https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png" alt="角色一致性与口型准确性">
+                                        <img src="https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png" alt="角色一致性与口型准确性" class="zoomable-image" loading="lazy">
                                     </div>
                                     <div class="example-content">
                                         <h3 class="example-title">角色一致性与口型准确性</h3>
@@ -210,6 +213,9 @@
                                         <div class="example-prompt">
                                             <span class="prompt-label">提示词：</span>
                                             <span class="prompt-text">请绘制一张四宫格图片，四张图依次表现同一位戴着斗笠的年轻男子分别发音「我」「上」「早」「八」，人物外貌保持一致，口型准确对应每个字的发音，整体风格统一，16:9，4K</span>
+                                            <button class="copy-btn" data-copy="请绘制一张四宫格图片，四张图依次表现同一位戴着斗笠的年轻男子分别发音「我」「上」「早」「八」，人物外貌保持一致，口型准确对应每个字的发音，整体风格统一，16:9，4K">
+                                                <i class="fas fa-copy"></i>
+                                            </button>
                                         </div>
                                     </div>
                                 </div>
