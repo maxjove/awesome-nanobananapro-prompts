@@ -471,14 +471,14 @@ Google 的 AI 攻势没有半点减弱的迹象。如果说前几天 Gemini 3 Pr
 这是一张经典的旧金山金门大桥风景照，但在画面之上，叠加了一层白色手绘风格的工程结构图解。
 ```
 
-![金门大桥](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/640-20251121225945521.jpeg)
+![金门大桥](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/640-20251121225945521.jpeg)
 
 **宇航服技术图纸**
 ```
 绘制此图的技术图纸
 ```
 
-![宇航服](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/640-20251121230025209.jpeg)
+![宇航服](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/640-20251121230025209.jpeg)
 
 ---
 
@@ -489,14 +489,14 @@ Google 的 AI 攻势没有半点减弱的迹象。如果说前几天 Gemini 3 Pr
 将多个不同的AI领域人物完美融合到一个场景中，保持各自特征一致。
 ```
 
-![AI大合照](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/640-20251121225950556.jpeg)
+![AI大合照](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/640-20251121225950556.jpeg)
 
 **多角色融合**
 ```
 同时处理十几张不同角色的参考图，并且把它们完美融合到一个客厅场景中。
 ```
 
-![角色融合](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/640-20251121225951800.png)
+![角色融合](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/640-20251121225951800.png)
 
 ---
 
@@ -507,7 +507,7 @@ Google 的 AI 攻势没有半点减弱的迹象。如果说前几天 Gemini 3 Pr
 用这个logo制作一件周边套头卫衣，并且生成这件衣服的4个角度，4个不同的动态视图，特写、斜角、半身照和细节照。
 ```
 
-![产品组图](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/640-20251121230031902.png)
+![产品组图](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/640-20251121230031902.png)
 
 #### 社交媒体风格（小红书封面）
 
@@ -516,7 +516,7 @@ Google 的 AI 攻势没有半点减弱的迹象。如果说前几天 Gemini 3 Pr
 生成一张高饱和度的美食笔记封面。主题为：'😭连夜整理！3天瘦8斤的懒人减肥食谱'。
 ```
 
-![美食封面](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740125.jpeg)
+![美食封面](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/159.jpeg)
 
 ---
 
@@ -530,7 +530,7 @@ Google 的 AI 攻势没有半点减弱的迹象。如果说前几天 Gemini 3 Pr
 高级时尚感的妆容，采用金属质感的妆面，眼影是香槟金色渐变到玫瑰金，眼角延伸出精致的金色眼线，下眼睑点缀碎钻如冰晶闪烁。睫毛根根分明如芭比娃娃，眉毛是野生眉形态。唇部是镜面光泽的樱桃红色，腮红是高光打造的立体感。发型是时髦的低盘发，发髻用金色装饰球和圣诞铃铛点缀，侧边垂落几缕精致卷发，头顶斜戴着设计感十足的金属质感圣诞帽，帽檐镶嵌北极星装饰。身着改良版现代圣诞服，采用不对称设计，一侧肩膀露出，红色天鹅绒面料混搭金色亮片，腰间系着夸张的金色蝴蝶结，下摆不规则裁剪。搭配毛绒围巾随意搭在肩上，戴着镶钻的针织手套。人物摆出时尚大片姿势，一腿微曲，一手叉腰，另一手优雅地托着一个装饰奢华的礼物盒，表情高冷又不失节日欢愉。背景是纯白色摄影棚布置成的圣诞场景，巨大的白色圣诞树装饰着金色装饰球、灯串和星星。地面铺满仿真雪花，摆放着精致的雪人雕塑、圣诞麋鹿装置。旁边有个现代设计感的壁炉装置，里面跳动着蓝色的炉火。
 ```
 
-![圣诞时尚](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740125.jpeg)
+![圣诞时尚](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/160.png)
 
 ---
 
@@ -541,7 +541,7 @@ Google 的 AI 攻势没有半点减弱的迹象。如果说前几天 Gemini 3 Pr
 主体：我（使用上传的面部照片——100% 面部还原度，无任何修改）。面部未增加额外亮度，保留了我自然的深色肤色。梦幻般的电影级增强现实视觉效果，众多悬浮的 Spotify 播放器界面卡片围绕着中心人物（图中人物）旋转。我倚靠在路灯上，手持手机，以完整的 3D 空间构图观看手机。每个音乐播放器卡片都经过精心设计，放置在不同的距离，有些卡片醒目地位于主体前方并部分遮挡住主体，而另一些则漂浮在主体后方和侧面。卡片使用了 Apple Music/Spotify 的原汁原味用户界面元素，例如播放进度指示器，并展示了 [艺术家姓名] 的歌曲；所有卡片都呈现出流畅的圆角边缘和微妙的角度透视变化，营造出半透明的磨砂玻璃美感，散发出柔和的漫射光晕，与场景的环境光自然地相互作用，呈现出电影般的光晕效果。这幅作品采用��色调到中性色调，阴影细节丰富而保留，巧妙地融入了专辑封面的色彩，中高对比度与柔和的高光过渡相得益彰，景深变化细腻，近处的卡片保持清晰，远处的卡片则呈现柔和的虚化效果，并辅以低调的动态增强效果。所有这些都确保了主体逼真、居中，并自然地融入周围环境。照片中，人物身穿敞开的黄色连帽衫、黑色牛仔裤和白色运动鞋，背景是真实的伦敦街景。创建一张9:16的高清照片。
 ```
 
-![AR音乐卡片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740125.jpeg)
+![AR音乐卡片](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/161.png)
 
 ---
 
@@ -552,7 +552,7 @@ Google 的 AI 攻势没有半点减弱的迹象。如果说前几天 Gemini 3 Pr
 Imagine [CHARAKTER 1] and [Charakter 2] casually sitting together at a table in a [FAST FOOD BRAND] restaurant. The atmosphere is relaxed and light-hearted, with the two characters engaged in an amusing or deep conversation over trays of food and drinks.
 ```
 
-![品牌跨界](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740125.jpeg)
+![品牌跨界](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/170.png)
 
 ---
 
@@ -563,7 +563,7 @@ Imagine [CHARAKTER 1] and [Charakter 2] casually sitting together at a table in 
 Create a 3D cute cartoon keychain design of [SUBJECT]. The keychain should have a charming, adorable appearance with a smooth, rounded plastic texture and soft, vibrant colors. Attach a metallic key ring to the top. Place it against a clean, light-colored background with minimal shadows to emphasize the design.
 ```
 
-![卡通钥匙扣](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740125.jpeg)
+![卡通钥匙扣](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/162.png)
 
 ---
 
@@ -572,7 +572,7 @@ Create a 3D cute cartoon keychain design of [SUBJECT]. The keychain should have 
 Create a high-quality, adorable plush toy design of [SUBJECT]. The toy should have soft, fuzzy textures, gentle stitching details, and a warm, huggable appearance. Use premium plush fabric materials with vibrant, welcoming colors. Include subtle highlights on the fur to enhance the three-dimensional quality. The pose should be friendly and inviting.
 ```
 
-![毛绒玩具](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740125.jpeg)
+![毛绒玩具](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/163.jpeg)
 
 ---
 
@@ -583,7 +583,7 @@ Create a high-quality, adorable plush toy design of [SUBJECT]. The toy should ha
 Create a stunning 3D origami art piece of [SUBJECT]. The design should feature clean, sharp geometric folds that capture the essence of the subject. Use high-quality textured paper with a subtle sheen. Arrange multiple origami elements in an artistic composition. The lighting should be soft and diffused to highlight the paper's texture and the intricate fold details. The background should be clean and minimal to emphasize the delicate paper art.
 ```
 
-![纸艺折纸](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740125.jpeg)
+![纸艺折纸](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/164.png)
 
 ---
 
@@ -592,7 +592,7 @@ Create a stunning 3D origami art piece of [SUBJECT]. The design should feature c
 Create a charming Q-version wooden puppet of [SUBJECT]. The puppet should have cute, exaggerated proportions with a large head and small body. Carve from light wood with visible wood grain patterns. Add articulated joints connected by small ropes or strings. The face should have simple, expressive features painted in warm colors. Include a small wooden stand for display.
 ```
 
-![木雕人偶](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740125.jpeg)
+![木雕人偶](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/165.png)
 
 ---
 
@@ -643,7 +643,7 @@ A miniature 3D world encapsulated within a transparent glass container. Inside t
 A mixed media artwork combining expressive doodle line art with bold dry brush color blocks. On [COLOR] background, draw [SUBJECT] using energetic, spontaneous black ink doodle lines that overlap and intersect. Add patches of vibrant acrylic color applied with a dry brush technique, creating texture and movement. The composition should be dynamic and playful. Some areas should have unfinished, sketch-like quality.
 ```
 
-![涂鸦艺术](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740125.jpeg)
+![涂鸦艺术](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/171.jpeg)
 
 ---
 
@@ -654,7 +654,7 @@ A mixed media artwork combining expressive doodle line art with bold dry brush c
 Create a professional infographic about [TOPIC]. The design should be clean, modern, and educational. Use a cohesive color scheme with [NUMBER] main colors. Include: a clear title at the top, organized sections with headings, relevant icons or small illustrations, data visualizations like charts or graphs if applicable, and concise text explanations. The layout should be balanced and easy to follow. Professional graphic design quality suitable for educational or business presentations.
 ```
 
-![信息图](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740125.jpeg)
+![信息图](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/290.jpeg)
 
 ---
 
@@ -665,7 +665,7 @@ Create a professional infographic about [TOPIC]. The design should be clean, mod
 A technical drawing sheet showing [OBJECT] in multiple views. Include: front view, side view, top view, and an isometric view. Use precise black technical lines on off-white or blueprint background. Add dimension lines, measurements, and annotations. Include material callouts and surface finish symbols. The style should resemble professional engineering drawings or patent illustrations. Clean, precise, and detailed technical illustration style.
 ```
 
-![技术图纸](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740125.jpeg)
+![技术图纸](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/172.jpeg)
 
 ---
 
