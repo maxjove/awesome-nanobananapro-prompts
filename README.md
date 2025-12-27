@@ -65,435 +65,504 @@ Google 的 AI 攻势没有半点减弱的迹象。如果说前几天 Gemini 3 Pr
 
 ## 🖼️ 案例展示
 
-> 📊 **共收录 988 个精选案例**  
-> 更多案例请访问 [在线图库](https://xianyu110.github.io/awesome-nanobananapro-prompts/) 或查看 [完整数据](script.js)
+> 📊 **共收录 986 个精选案例**  
+> 更多案例请访问 [在线图库](https://xianyu110.github.io/awesome-nanobananapro-prompts/) 或查看 [gpt4o-image-prompts-master 目录](https://github.com/xianyu110/awesome-nanobananapro-prompts/tree/main/gpt4o-image-prompts-master)
 
 ---
 
-#### 1. 角色一致性与口型准确性
+#### 1. 手绘风格的信息图卡片
 
-**分类**：👤 人物角色 | **来源**：@balconychy
+**分类**：🎨 精选案例 | **来源**：@unknown | **案例ID**：1
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/1.png" style="max-width: 100%; border-radius: 8px;" alt="角色一致性与口型准确性">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/hand-drawn-style-infographic-card.png" style="max-width: 100%; border-radius: 8px;" alt="手绘风格的信息图卡片">
 </div>
 
 **提示词：**
 ```
-请绘制一张四宫格图片，四张图依次表现同一位戴着斗笠的年轻男子分别发音「我」「上」「早」「八」，人物外貌保持一致，口型准确对应每个字的发音，整体风格统一，16:9，4K
+创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。 卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。 整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。 <h1><span style=""color:red"">「认知」</span>决定上限 <span style=""color:red"">「圈子」</span>决定机会</h1> - 你赚不到「认知」以外的钱， - 也遇不到「圈子」以外的机会。
 ```
 
 ---
-#### 2. 漫画上色与翻译
 
-**分类**：📖 翻译上色 | **来源**：@dotey
+#### 2. 四格漫画 (相对论)
+
+**分类**：🎨 精选案例 | **来源**：@unknown | **案例ID**：2
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/2.png" style="max-width: 100%; border-radius: 8px;" alt="漫画上色与翻译">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/the-theory-of-relativity.png" style="max-width: 100%; border-radius: 8px;" alt="四格漫画 (相对论)">
 </div>
 
 **提示词：**
 ```
-将图片上的文字翻译为中文，并上色，其他不变
+make a colorful page of manga describing the theory of relativity. add some humor
 ```
 
 ---
-#### 3. 国际化海报翻译与重排
 
-**分类**：🎨 海报设计 | **来源**：@dotey
+#### 3. 蜜蜂科学城
+
+**分类**：🎨 精选案例 | **来源**：@unknown | **案例ID**：3
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/3.png" style="max-width: 100%; border-radius: 8px;" alt="国际化海报翻译与重排">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/bee-science-city.png" style="max-width: 100%; border-radius: 8px;" alt="蜜蜂科学城">
 </div>
 
 **提示词：**
 ```
-将英文海报中的英文翻译成中文。
+创建图像 3D Q版迷你风格，一座蜂巢结构的甜蜜科研基地，建筑由六边形透明蜂蜡舱堆叠而成，顶部悬浮滴落蜂蜜的太阳花洒水器，外墙爬满发光花粉藤蔓。侧面延伸出蜂蜡滑梯与蒲公英降落伞，入口是旋转的向日葵转门。透过蜂巢窗可见内部试管操作台、蜜糖吊灯和穿白大褂的蜜蜂博士。花园里有驾驶花粉摩托的甲虫快递员、举着放大镜的蝴蝶研究员，搭配蜂蜜长椅、雏菊花洒喷泉和动态萤火虫光标，整体笼罩琥珀色光晕，打造超现实昆虫科学城的萌趣生态。
 ```
 
 ---
-#### 4. 复杂UI界面复刻（聊天记录）
 
-**分类**：💻 UI设计 | **来源**：@designer
+#### 4. 马斯克在公园画画
+
+**分类**：🎨 精选案例 | **来源**：@unknown | **案例ID**：4
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/4.png" style="max-width: 100%; border-radius: 8px;" alt="复杂UI界面复刻（聊天记录）">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/musk-in-the-park.jpg" style="max-width: 100%; border-radius: 8px;" alt="马斯克在公园画画">
 </div>
 
 **提示词：**
 ```
-生成两张竖版的微信群聊天界面截图，群成员正在讨论 Nano Banana Pro 的发布。
+创作一个逼真的户外场景，其中一位日本画家正在为马斯克画画。场景中，画家坐在画架前，而马斯克则坐在对面被描绘（不带任何卡通或动漫风格）。环境应充满生机,自然且阳光明媚——比如公园或热闹的户外场所。整体风格必须完全写实，唯独画家画架上的作品例外：那应该是马斯克的吉卜力风格动漫肖像，与周围的写实环境形成强烈对比。请确保画中人物是写实风格，画上的肖像才是动漫风格。
 ```
 
 ---
-#### 5. 长文本与古画风格结合
 
-**分类**：🏮 传统文化 | **来源**：@artist
+#### 5. 创建你自己的GTA角色
+
+**分类**：🎨 精选案例 | **来源**：@Anima_Labs | **案例ID**：5
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/5.png" style="max-width: 100%; border-radius: 8px;" alt="长文本与古画风格结合">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/5.png" style="max-width: 100%; border-radius: 8px;" alt="创建你自己的GTA角色">
 </div>
 
 **提示词：**
 ```
-生成一幅 4K 古画，画上写着《水调歌头》全文
+Act as a creative director at Rockstar Games. Create a fictional GTA VI character sheet in the exact same style as the official GTA VI promotional images.
+
+The layout must be:
+
+A horizontal character sheet, with the character on the right, in a dynamic pose that reflects their personality.
+On the left, include the following structured text:
+A small "VI" logo at the top left (mention it visually).
+...
 ```
 
 ---
-#### 6. IP角色融合创作
 
-**分类**：🎭 IP创作 | **来源**：@creator
+#### 6. 金色抽象综合风格
+
+**分类**：🎨 精选案例 | **来源**：@firatbilal | **案例ID**：6
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/6.png" style="max-width: 100%; border-radius: 8px;" alt="IP角色融合创作">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/6.png" style="max-width: 100%; border-radius: 8px;" alt="金色抽象综合风格">
 </div>
 
 **提示词：**
 ```
-哆啦A梦和李白在月下对酌。圆月高悬，古代亭台楼阁，哆啦A梦穿着唐朝服饰，李白持酒壶，石桌上摆着酒具，仙气飘飘，中日混合画风，精致细节
+{
+    "base_image": "uploaded image",
+    "style_transfer": {
+        "visual_characteristics": {
+            "head_and_face": {
+                "material": "translucent resin with embedded starlight and glowing neural circuits",
+                "surface_effect": "mirror-gloss with gold filament veins and galaxy-like reflections",
+                "lighting": "dynamic cinematic rim lights with volu...
 ```
 
 ---
-#### 7. 搜索增强：行程规划
 
-**分类**：📊 信息图表 | **来源**：@traveler
+#### 7. 刺绣插图风格
+
+**分类**：🎨 精选案例 | **来源**：@Artedeingenio | **案例ID**：8
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/7.png" style="max-width: 100%; border-radius: 8px;" alt="搜索增强：行程规划">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/8.png" style="max-width: 100%; border-radius: 8px;" alt="刺绣插图风格">
 </div>
 
 **提示词：**
 ```
-生成一张可视化的图片，展示在广州旅游的 2 天行程。
+A handcrafted illustration that simulates traditional embroidery using colorful threads on linen fabric. All elements are “stitched” with visible yarn textures, using techniques like satin stitch, backstitch, and French knots. Raised contours and directional thread flow create a tactile, cozy appearance. The background is made of woven linen, with gentle pastel or folk-inspired colors. The composi...
 ```
 
 ---
-#### 8. 搜索增强：天气信息图
 
-**分类**：📊 信息图表 | **来源**：@weather
+#### 8. 青花瓷风格
+
+**分类**：🎨 精选案例 | **来源**：@firatbilal | **案例ID**：9
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/8.png" style="max-width: 100%; border-radius: 8px;" alt="搜索增强：天气信息图">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/9.png" style="max-width: 100%; border-radius: 8px;" alt="青花瓷风格">
 </div>
 
 **提示词：**
 ```
-搜索广州实时天气信息，制作一幅中文波普艺术风格的信息图，4:3
+Using the uploaded image as the exact visual base, transform it into a hyper-realistic 3D object that retains the original shape and proportions of the logo only. Apply traditional Ottoman Iznik ceramic textures—featuring a warm white glazed base with delicate crackle lines, overlaid with vivid cobalt blue, turquoise, and bold red floral motifs such as tulips, carnations, and arabesque vines. The ...
 ```
 
 ---
-#### 9. 实时天气UI设计
 
-**分类**：💻 UI设计 | **来源**：@designer
+#### 9. 熔化变异文本
+
+**分类**：🎨 精选案例 | **来源**：@gnrlyxyz | **案例ID**：10
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/9.jpeg" style="max-width: 100%; border-radius: 8px;" alt="实时天气UI设计">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/10.png" style="max-width: 100%; border-radius: 8px;" alt="熔化变异文本">
 </div>
 
 **提示词：**
 ```
-帮我搜索现在北京的天气信息，并且将其放在一个天气UI设计稿中
+Create a psychedelic, grotesque cartoon-style text design that says “GNARLY”. Arrange the letters in a straight horizontal line. Each letter should be lumpy, melting, and oozing with bright, clashing flat colors like slime green, neon yellow, and hot pink. Each letter must be filled with only one solid flat color, with no gradients or transitions. All drips, melts, and oozes must be solid black wi...
 ```
 
 ---
-#### 10. 多语言手账创作
 
-**分类**：🌸 场景生成 | **来源**：@traveler
+#### 10. 品牌之爱话术
+
+**分类**：🎨 精选案例 | **来源**：@aziz4ai | **案例ID**：11
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/11.jpeg" style="max-width: 100%; border-radius: 8px;" alt="多语言手账创作">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/11.jpeg" style="max-width: 100%; border-radius: 8px;" alt="品牌之爱话术">
 </div>
 
 **提示词：**
 ```
-帮我生成一张拼贴手帐风格的广西旅游笔记，上面记录着自己的行程以及路上的照片等，文字有中文、韩语和英语。
+A romantic square-format bouquet inspired by [Brand Name]. Roses are crafted from visual patterns or textures that reflect the brand’s identity. The bouquet is wrapped in luxurious material echoing the brand’s signature style (e.g. silk, velvet, leather), and elegantly tied with one of the brand’s iconic products, replacing a traditional ribbon. Place it on a surface that matches the brand’s aesth...
 ```
 
 ---
-#### 11. 多图输入与手写日记风格
 
-**分类**：🌸 场景生成 | **来源**：@diary
+#### 11. 创意广告
+
+**分类**：🎨 精选案例 | **来源**：@azed_ai | **案例ID**：12
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/12.jpeg" style="max-width: 100%; border-radius: 8px;" alt="多图输入与手写日记风格">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/12.png" style="max-width: 100%; border-radius: 8px;" alt="创意广告">
 </div>
 
 **提示词：**
 ```
-模拟在一张略带纹理的纸张上手写的关于今天的日记，拼贴画风格
+A minimalist and creative advertisement set on a clean white background.
+A real [Real Object] is integrated into a hand-drawn black ink doodle, using loose, playful lines. The [Doodle Concept] interacts with the object in a clever, imaginative way. Include bold black [Ad Copy] text at the top or center. Place the [Brand Logo] clearly at the bottom. The visual should be clean, fun, high-contrast, a...
 ```
 
 ---
-#### 12. 中文字体设计
 
-**分类**：🎨 设计 | **来源**：@font
+#### 12. 创意广告
+
+**分类**：🎨 精选案例 | **来源**：@aziz4ai | **案例ID**：13
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/13.jpeg" style="max-width: 100%; border-radius: 8px;" alt="中文字体设计">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/13.png" style="max-width: 100%; border-radius: 8px;" alt="创意广告">
 </div>
 
 **提示词：**
 ```
-多种字体设计提示词的综合效果展示
+Use the uploaded product image exactly as it is — do not alter, redraw, or reinterpret any part of it. Follow the guidelines below to create a high-quality, cinematic product presentation:
+
+• Keep the product fully intact — all text, labels, proportions, packaging, and colors must remain exactly the same.
+• Use natural or cinematic lighting to enhance the product’s appeal.
+• Place the product on a...
 ```
 
 ---
-#### 13. 产品海报设计（单图）
 
-**分类**：🎨 设计 | **来源**：@product
+#### 13. 创意广告
+
+**分类**：🎨 精选案例 | **来源**：@azed_ai | **案例ID**：14
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/14.png" style="max-width: 100%; border-radius: 8px;" alt="产品海报设计（单图）">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/14.png" style="max-width: 100%; border-radius: 8px;" alt="创意广告">
 </div>
 
 **提示词：**
 ```
-为这款米色皮革手机壳设计产品海报。4K超清画面质感，静物摄影，昏暗氛围，光线追踪，高级柔光。
+A high-impact advertisement set against a clean, dark or high-contrast background. A [product] is centered, sharply lit and highly detailed. Around it, surreal, stylized visual [elements] illustrations explode outward (e.g., musicians, runners, curls, sunbursts), vibrant color palette, neon. bold uppercase ad copy at the top that reads [TEXT] and the brand logo at the bottom, modern Ad
 ```
 
 ---
-#### 14. 产品海报设计（多图）
 
-**分类**：🎨 设计 | **来源**：@product
+#### 14. 树屋
+
+**分类**：🎨 精选案例 | **来源**：@TheRelianceAI | **案例ID**：15
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/15.jpeg" style="max-width: 100%; border-radius: 8px;" alt="产品海报设计（多图）">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/15.png" style="max-width: 100%; border-radius: 8px;" alt="树屋">
 </div>
 
 **提示词：**
 ```
-为这两个香薰产品设计产品海报。两个香薰放在一起的超近景特写，质感清晰。
+A quiet morning in a luxury treehouse retreat created by [BRAND NAME] — golden light pours through windows framed in the brand’s signature colors. A cozy seating area features playful, thematic furniture, and a circular rug inspired by [BRAND SYMBOL OR PRODUCT]. The coffee table bears the embossed logo, while a screen on the wall loops the phrase: “[BRAND SLOGAN].” A curated display of iconic item...
 ```
 
 ---
-#### 15. 产品场景渲染
 
-**分类**：🎨 设计 | **来源**：@render
+#### 15. 品牌星球世界
+
+**分类**：🎨 精选案例 | **来源**：@TheRelianceAI | **案例ID**：16
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/16.png" style="max-width: 100%; border-radius: 8px;" alt="产品场景渲染">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/16.png" style="max-width: 100%; border-radius: 8px;" alt="品牌星球世界">
 </div>
 
 **提示词：**
 ```
-帮我将这个香薰放在符合设计风格的室内，大师级摄影，特写镜头
+Planet [Brand name], Year 3025. A distant world shaped entirely by the essence of the brand. The landscapes echo its core identity — from surreal terrains to fantastical weather patterns. Native flora and fauna embody its signature ingredients and aesthetics. Rivers flow with iconic flavors. Architecture is inspired by its packaging and visual language, fused with futuristic technology. The atmosp...
 ```
 
 ---
-#### 16. 多物品场景融合
 
-**分类**：📁 其他 | **来源**：@interior
+#### 16. 未来一瞥
+
+**分类**：🎨 精选案例 | **来源**：@TheRelianceAI | **案例ID**：17
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/17.jpeg" style="max-width: 100%; border-radius: 8px;" alt="多物品场景融合">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/17.png" style="max-width: 100%; border-radius: 8px;" alt="未来一瞥">
 </div>
 
 **提示词：**
 ```
-将这些家具融洽的放到一个房间中
+A cinematic rendering of [subject] walking through a rain-soaked street at night, illuminated by moody neon lights, reflections dancing on wet pavement, and a hazy urban skyline in the background. The subject feels alive, caught between solitude and electricity.
 ```
 
 ---
-#### 17. 人像精细编辑与美颜
 
-**分类**：✂️ 图像编辑 | **来源**：@beauty
+#### 17. 品牌我的世界风格
+
+**分类**：🎨 精选案例 | **来源**：@TheRelianceAI | **案例ID**：18
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/18.png" style="max-width: 100%; border-radius: 8px;" alt="人像精细编辑与美颜">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/18.png" style="max-width: 100%; border-radius: 8px;" alt="品牌我的世界风格">
 </div>
 
 **提示词：**
 ```
-轻度美颜、瘦脸，发型替换为美式前刺，发际线前移，眼镜更换为墨镜
+"A Minecraft-style voxel recreation of a [BRAND NAME] [OBJECT], built entirely from pixelated cubes — detailed voxel modeling, signature brand colors and logo, blocky textures, clean lighting, stylized yet recognizable, 3D render, high resolution, playful and creative interpretation
 ```
 
 ---
-#### 18. IP版权内容生成（跨文化融合）
 
-**分类**：🎭 IP创作 | **来源**：@ip
+#### 18. Emoji变成一个花盆
+
+**分类**：🎨 精选案例 | **来源**：@azed_ai | **案例ID**：19
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/19.png" style="max-width: 100%; border-radius: 8px;" alt="IP版权内容生成（跨文化融合）">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/19.png" style="max-width: 100%; border-radius: 8px;" alt="Emoji变成一个花盆">
 </div>
 
 **提示词：**
 ```
-杰瑞鼠身披《大闹天宫》动画版标志性的鹅黄色虎皮裙、大红披风和金甲，头戴凤翅紫金冠，手持金箍棒
+A high-quality photo of a cute ceramic [object/animal]-shaped planter with a glossy finish, filled with a variety of vibrant succulents and greenery including a spiky Haworthia, a rosette-shaped Echeveria, and delicate white flowers. The planter has a friendly face and sits on a soft, neutral background with diffused natural lighting, showcasing fine textures and color contrast in a clean, minimal...
 ```
 
 ---
-#### 19. IP版权内容生成（关系图）
 
-**分类**：📊 信息图表 | **来源**：@ip
+#### 19. 透明塑料袋装物体
+
+**分类**：🎨 精选案例 | **来源**：@azed_ai | **案例ID**：20
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/20.jpeg" style="max-width: 100%; border-radius: 8px;" alt="IP版权内容生成（关系图）">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/20.jpeg" style="max-width: 100%; border-radius: 8px;" alt="透明塑料袋装物体">
 </div>
 
 **提示词：**
 ```
-一张手帐风格图片，上面画着电视剧权力的游戏的人物关系和势力关系图，人物有头像
+A high-resolution photograph of a clear plastic drawstring bag placed on a light gray background. Inside the bag are multiple tiny 3D [subject] figures arranged neatly. The bag is tied with a soft white ribbon and has a black label tag that reads ‘[LABEL TEXT]’. Soft lighting and clean shadows emphasize the realistic textures and details
 ```
 
 ---
-#### 20. IP版权内容生成（游戏截图）
 
-**分类**：🎮 游戏 | **来源**：@game
+#### 20. 产品变成纸玻璃
+
+**分类**：🎨 精选案例 | **来源**：@aziz4ai | **案例ID**：21
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/21.jpeg" style="max-width: 100%; border-radius: 8px;" alt="IP版权内容生成（游戏截图）">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/21.jpeg" style="max-width: 100%; border-radius: 8px;" alt="产品变成纸玻璃">
 </div>
 
 **提示词：**
 ```
-3D写实风格的宝可梦主题MMO游戏截图
+[Product by Brand] in a surreal, minimalist paper-glass style advertisement.
+The product is centered, crafted from translucent frosted glass-paper, placed against a clean white or softly tinted background.
+Soft cinematic lighting creates gentle contrast and ambient shadows.
+A single brand color subtly interacts with the scene through glow, mist, liquid, or foam.
+Include a bold, elegant 4-word slog...
 ```
 
 ---
-#### 21. 白模上色与渲染
 
-**分类**：🎨 风格转换 | **来源**：@3d
+#### 21. 自定义气球
+
+**分类**：🎨 精选案例 | **来源**：@ZHO_ZHO_ZHO | **案例ID**：22
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/22.jpeg" style="max-width: 100%; border-radius: 8px;" alt="白模上色与渲染">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/22.jpeg" style="max-width: 100%; border-radius: 8px;" alt="自定义气球">
 </div>
 
 **提示词：**
 ```
-为这张手办完成材质添加和上色，同时将周围环境变为符合角色设定的环境
+一件高度写实的 3D 装置艺术：字母 Z 被设计成充气球囊造型，整体形态如同流畅弯曲的“Z”字路径，由两段斜线和一个折角构成，边缘略微卷翘，充满柔软的气压感。
+
+视角为正面稍仰视角（约10°）的正交投影，主体置于画面正中央，占据几乎全部画幅，背景为纯黑色，形成类似剧院聚光灯的聚焦舞台效果。
+
+材质为高弹性亮面 PVC，表面涂有高光清漆。主色为柔亮粉色（#FF96AC），阴影部分渐变为淡紫粉色，表面同时具备镜面高光和柔和漫反射，呈现丝滑、饱满、有张力的视觉质感。
+
+左下角可见一个金属螺旋气嘴（银灰色），尺寸很小但极具真实感，暗示其为充气物体。右下笔画末端印有一串黑色的警示文字和安全图标，以“ZHOGUE”风格排版，呼应充气玩具视觉语言。
+
+主光源来自左上方约 35°，呈现清晰的硬边聚光灯效果：在顶部折角与中央斜线区域形成椭圆形白色高光，内折阴影区带有柔和的粉紫色内反射。
+
+辅光来自右后方，轻...
 ```
 
 ---
-#### 22. 漫画翻译与上色（复杂场景）
 
-**分类**：📖 翻译上色 | **来源**：@manga
+#### 22. 平面设计等边风格
+
+**分类**：🎨 精选案例 | **来源**：@Artedeingenio | **案例ID**：23
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/23.jpeg" style="max-width: 100%; border-radius: 8px;" alt="漫画翻译与上色（复杂场景）">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/23.png" style="max-width: 100%; border-radius: 8px;" alt="平面设计等边风格">
 </div>
 
 **提示词：**
 ```
-对复杂海贼王漫画页进行翻译和上色
+A flat isometric digital illustration of [describe the subject: e.g., a modern workspace, a city block, a group of app icons, a sports shop], clean lines and geometric forms, bright pastel colors, simplified perspective with 3D depth, minimal shading, white background or light gradient. Style resembles modern vector infographics, ideal for UI, app design or web visuals.
 ```
 
 ---
-#### 23. 酸性设计/Y2K风格海报
 
-**分类**：🎨 风格转换 | **来源**：@design
+#### 23. 新市场中的美妆品牌
+
+**分类**：🎨 精选案例 | **来源**：@azed_ai | **案例ID**：24
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/24.jpeg" style="max-width: 100%; border-radius: 8px;" alt="酸性设计/Y2K风格海报">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/24.png" style="max-width: 100%; border-radius: 8px;" alt="新市场中的美妆品牌">
 </div>
 
 **提示词：**
 ```
-将照片转换成Y2K美学或酸性设计风格的平面设计海报
+A product photography shot of a [PRODUCT] inspired by [FOOD BRAND], placed against a soft light gray background. The product is sharply focused with soft studio lighting. The packaging design includes the official [FOOD BRAND] logo and reflects the brand’s colors and style. The product is sleek, glossy, and realistic, with high detail and elegant presentation. No food items, just the makeup produc...
 ```
 
 ---
-#### 24. UI设计风格迁移
 
-**分类**：💻 UI设计 | **来源**：@ui
+#### 24. 按键删除周一
+
+**分类**：🎨 精选案例 | **来源**：@michaelrabone | **案例ID**：25
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/25.jpeg" style="max-width: 100%; border-radius: 8px;" alt="UI设计风格迁移">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/25.jpeg" style="max-width: 100%; border-radius: 8px;" alt="按键删除周一">
 </div>
 
 **提示词：**
 ```
-模仿这个设计稿的风格和关键元素表现形式，帮我生成一个天气应用的UI设计稿
+Detailed photographic image of a miniature person in bed feeling cranky under an opened 'Delete Monday' keyboard keycap, using the inside of the keycap as a mini bedroom complete with the usual bedroom stuff
 ```
 
 ---
-#### 25. 超长文本古风画卷
 
-**分类**：🏮 传统文化 | **来源**：@calligraphy
+#### 25. 水流身份
+
+**分类**：🎨 精选案例 | **来源**：@aziz4ai | **案例ID**：26
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/26.jpeg" style="max-width: 100%; border-radius: 8px;" alt="超长文本古风画卷">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/26.jpeg" style="max-width: 100%; border-radius: 8px;" alt="水流身份">
 </div>
 
 **提示词：**
 ```
-在画面上方有一张长长的画卷上用潇洒的书法写着一整首白居易的《琵琶行》
+An ultra-high resolution 8K cinematic render of the [Brand Name] logo, sculpted entirely from flowing crystal-clear water. The liquid forms every curve and edge of the brand’s logo with fluid precision, highlighted by vibrant neon accents inspired by [Brand Name]’s color identity. The background is pitch black, creating sharp contrast and drama. The lighting is dynamic, revealing sharp reflections...
 ```
 
 ---
-#### 26. 微信群聊UI复刻（甄嬛传版）
 
-**分类**：💻 UI设计 | **来源**：@chat
+#### 26. 品牌奢华之物从天而降
+
+**分类**：🎨 精选案例 | **来源**：@hc_dsn | **案例ID**：27
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/27.png" style="max-width: 100%; border-radius: 8px;" alt="微信群聊UI复刻（甄嬛传版）">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/27.png" style="max-width: 100%; border-radius: 8px;" alt="品牌奢华之物从天而降">
 </div>
 
 **提示词：**
 ```
-生成一张微信手机聊天界面截图，严格按照微信的界面UI和排版方式，群聊名称：紫禁城吃瓜群
+Create a image with 1:1 ratio
+a dreamy brand ad of [Brand], a brand designed bubble-like capsule with brand color parachute packaging their classic product, against blue sky and other blurry parachute packaging, white cloud, a small brand logo on top, a tiny slogan beneath it, cinematic day lighting, lens flare, dof, hdr
 ```
 
 ---
-#### 27. 跨界IP游戏场景
 
-**分类**：🎮 游戏 | **来源**：@game
+#### 27. 狭窄走廊里奔跑
+
+**分类**：🎨 精选案例 | **来源**：@B_4AI | **案例ID**：28
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/28.jpeg" style="max-width: 100%; border-radius: 8px;" alt="跨界IP游戏场景">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/28.png" style="max-width: 100%; border-radius: 8px;" alt="狭窄走廊里奔跑">
 </div>
 
 **提示词：**
 ```
-生成一张原神的实机战斗图片，旅行者主角正在和 boss 埃隆·马斯克战斗
+A thrilling 3D cartoon scene: [CHARACTER1] runs through a narrow corridor inside [Place], chased at high speed by [CHARACTER2]. Their facial expressions reflect tension and focus, with beads of sweat glistening under dramatic lighting.
 ```
 
 ---
-#### 28. 超多IP角色大合照
 
-**分类**：🎭 IP创作 | **来源**：@crossover
+#### 28. 面包形态
+
+**分类**：🎨 精选案例 | **来源**：@azed_ai | **案例ID**：29
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/29.jpeg" style="max-width: 100%; border-radius: 8px;" alt="超多IP角色大合照">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/29.png" style="max-width: 100%; border-radius: 8px;" alt="面包形态">
 </div>
 
 **提示词：**
 ```
-中国动画中的孙悟空和路飞、漩涡鸣人、炭治郎等多个动漫角色站在一起，大杂烩式同框，集体大合照
+A highly realistic sculpture of a [object], made entirely from [bread type] with ultra-detailed texture and color. The surface shows the natural properties of the bread, golden-brown, glossy, flaky or crusty, with visible layers or seeds where appropriate, studio lighting, soft
 ```
 
 ---
-#### 29. 科普图制作（光合作用）
 
-**分类**：📁 其他 | **来源**：@science
+#### 29. 公司金币
+
+**分类**：🎨 精选案例 | **来源**：@umesh_ai | **案例ID**：30
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/30.png" style="max-width: 100%; border-radius: 8px;" alt="科普图制作（光合作用）">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/30.jpeg" style="max-width: 100%; border-radius: 8px;" alt="公司金币">
 </div>
 
 **提示词：**
 ```
-用中文给我制作一张科普图片，讲述详细的植物进行光合作用的原��
+Prompt: A high-resolution photograph of a gold coin featuring the [COMPANY NAME] logo at the center. The coin should have the year [YEAR] engraved at the top. Include finely detailed engravings, ornamental border patterns, and authentic coin textures like reeded edges, matte
 ```
 
 ---
-#### 30. 科普图制作（牛顿三棱镜）
 
-**分类**：📁 其他 | **来源**：@science
+#### 30. 超写实拼图肖像
+
+**分类**：🎨 精选案例 | **来源**：@ZHO_ZHO_ZHO | **案例ID**：31
 
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/31.png" style="max-width: 100%; border-radius: 8px;" alt="科普图制作（牛顿三棱镜）">
+<img src="https://ghproxy.net/https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/31.jpeg" style="max-width: 100%; border-radius: 8px;" alt="超写实拼图肖像">
 </div>
 
 **提示词：**
 ```
-设计「经典光学实验：牛顿三棱镜分光」分镜式科普海报
+高分辨率的摄影棚人像，一位惊艳年轻模特「安妮海瑟薇」为主角。她拥有一头顺直的黑发，背景为白色，无任何可辨识的元素。她的脸略微侧转，但目光直视镜头，目光强烈而专注，毫无动摇。
+
+她整张脸由拼图块组成——每一块都清晰可见，边缘整齐，具备细腻的立体感。她轻柔地用手指捏着一块刚从脸颊取下的拼图块，露出其下方一个空洞的黑色虚空。
+
+光线集中且具方向性，几乎不产生阴影，但准确地勾勒出皮肤的轮廓与拼图结构的立体感。整体氛围超现实、精准且高度写实。
+
+顶部有像时尚杂志一样的标题“ZHOGUE”（在人物后面）
 ```
 
 ---
 
-> 📌 **查看更多案例**  
-> 访问 [在线图库](https://xianyu110.github.io/awesome-nanobananapro-prompts/) 浏览全部 988+ 个案例  
-> 或查看 [script.js](script.js) 获取完整数据
+> 📌 **查看更多案例**
+> 访问 [在线图库](https://xianyu110.github.io/awesome-nanobananapro-prompts/) 浏览全部 986+ 个案例
+> 或查看 [gpt4o-image-prompts-master](https://github.com/xianyu110/awesome-nanobananapro-prompts/tree/main/gpt4o-image-prompts-master) 获取完整数据和提示词
 ## 📝 投稿指南
 
 欢迎为本项目贡献更多优质的提示词案例！
