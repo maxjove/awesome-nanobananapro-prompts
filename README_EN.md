@@ -758,7 +758,7 @@ Finally, when performing extremely complex lighting changes or image fusion, gen
 
 https://maynorai.top/list/#/home
 
-https://draw.claude-opus.top/list/#/home
+https://claudeapp.asia/list/#/home
 
 https://nanobanana-free.top/
 
@@ -863,7 +863,7 @@ Prompt: Translate all English text on three yellow-blue cans to Korean, keep eve
 
 **Regional Access Channels**:
 - https://maynorai.top/list/#/home
-- https://draw.claude-opus.top/list/#/home
+- https://claudeapp.asia/list/#/home
 - https://nanobanana-free.top/
 
 **Proxy API**:

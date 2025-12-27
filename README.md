@@ -37,7 +37,7 @@ Google 的 AI 攻势没有半点减弱的迹象。如果说前几天 Gemini 3 Pr
 ### 国内访问渠道
 
 - https://maynorai.top/list/#/home
-- https://draw.claude-opus.top/list/#/home
+- https://claudeapp.asia/list/#/home
 - https://nanobanana-free.top/
 
 ### 代理 API
@@ -29743,7 +29743,7 @@ Soft natural shadows, ambient occlusion, bright and airy yet cinematic lighting,
 | 平台 | 描述 | 链接 |
 |-----|------|-----|
 | 🎯 maynorai.top | 稳定可靠的国内镜像 | [访问](https://maynorai.top/list/#/home) |
-| 🎨 draw.claude-opus.top | 高性能渲染服务 | [访问](https://draw.claude-opus.top/list/#/home) |
+| 🎨 draw.claude-opus.top | 高性能渲染服务 | [访问](https://claudeapp.asia/list/#/home) |
 | 🆓 nanobanana-free.top | 免费体验站点 | [访问](https://nanobanana-free.top/) |
 | ⚡ pro.nanobanana-free.top | 专业版体验站点 | [访问](https://pro.nanobanana-free.top/) |
 

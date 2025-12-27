@@ -65,51 +65,69 @@
                     <label data-zh="分类：" data-en="Category:">分类：</label>
                     <select id="categoryFilter">
                         <option value="all" data-zh="全部案例" data-en="All Cases">全部案例</option>
-                        <optgroup label="🎯 核心能力">
-                            <option value="character" data-zh="角色一致性" data-en="Character Consistency">角色一致性</option>
-                            <option value="translation" data-zh="翻译上色" data-en="Translation & Coloring">翻译上色</option>
-                            <option value="text" data-zh="文字处理" data-en="Text Processing">文字处理</option>
-                            <option value="editing" data-zh="图像编辑" data-en="Image Editing">图像编辑</option>
-                            <option value="fusion" data-zh="图像融合" data-en="Image Fusion">图像融合</option>
+                        <optgroup label="🎯 风格艺术">
                             <option value="style" data-zh="风格转换" data-en="Style Transfer">风格转换</option>
+                            <option value="art" data-zh="艺术手工" data-en="Art & Craft">艺术手工</option>
+                            <option value="abstract" data-zh="抽象艺术" data-en="Abstract">抽象艺术</option>
+                            <option value="effects" data-zh="特效光效" data-en="Effects">特效光效</option>
+                            <option value="3d" data-zh="3D渲染" data-en="3D Render">3D渲染</option>
                         </optgroup>
-                        <optgroup label="📚 内容创作">
-                            <option value="poster" data-zh="海报设计" data-en="Poster Design">海报设计</option>
-                            <option value="design" data-zh="视觉设计" data-en="Visual Design">视觉设计</option>
-                            <option value="movie" data-zh="影视创作" data-en="Film Creation">影视创作</option>
-                            <option value="ip" data-zh="IP创作" data-en="IP Creation">IP创作</option>
-                            <option value="comic" data-zh="漫画创作" data-en="Comic Creation">漫画创作</option>
-                            <option value="traditional" data-zh="文学艺术" data-en="Literature & Art">文学艺术</option>
-                            <option value="anime" data-zh="动漫风格" data-en="Anime Style">动漫风格</option>
-                            <option value="quote" data-zh="名人金句" data-en="Celebrity Quotes">名人金句</option>
-                        </optgroup>
-                        <optgroup label="🎓 教育科普">
-                            <option value="education" data-zh="教育教学" data-en="Education">教育教学</option>
-                            <option value="infographic" data-zh="信息图表" data-en="Infographics">信息图表</option>
-                            <option value="learning" data-zh="学习工具" data-en="Learning Tools">学习工具</option>
-                        </optgroup>
-                        <optgroup label="🏢 商业应用">
-                            <option value="presentation" data-zh="PPT生成" data-en="PPT Generation">PPT生成</option>
-                            <option value="product" data-zh="产品设计" data-en="Product Design">产品设计</option>
-                            <option value="logo" data-zh="LOGO设计" data-en="Logo Design">Logo设计</option>
-                            <option value="fashion" data-zh="时尚换装" data-en="Fashion Style">时尚换装</option>
-                            <option value="merchandise" data-zh="周边设计" data-en="Merchandise Design">周边设计</option>
-                        </optgroup>
-                        <optgroup label="🎮 专业领域">
-                            <option value="game" data-zh="游戏设计" data-en="Game Design">游戏设计</option>
-                            <option value="ui" data-zh="UI设计" data-en="UI Design">UI设计</option>
-                            <option value="technical" data-zh="技术应用" data-en="Technical Applications">技术应用</option>
-                            <option value="medical" data-zh="医疗健康" data-en="Medical">医疗健康</option>
+                        <optgroup label="👤 人物角色">
                             <option value="portrait" data-zh="人物肖像" data-en="Portrait">人物肖像</option>
+                            <option value="character" data-zh="角色设计" data-en="Character">角色设计</option>
+                            <option value="fashion" data-zh="时尚穿搭" data-en="Fashion">时尚穿搭</option>
+                            <option value="emotion" data-zh="情绪表情" data-en="Emotion">情绪表情</option>
                         </optgroup>
-                        <optgroup label="🌍 生活场景">
-                            <option value="scene" data-zh="场景生成" data-en="Scene Generation">场景生成</option>
-                            <option value="lifestyle" data-zh="生活应用" data-en="Life Applications">生活应用</option>
-                            <option value="interior" data-zh="室内设计" data-en="Interior Design">室内设计</option>
-                            <option value="food" data-zh="美食创意" data-en="Food Creative">美食创意</option>
-                            <option value="social" data-zh="社交媒体" data-en="Social Media">社交媒体</option>
-                            <option value="location" data-zh="地理定位" data-en="Location Based">地理定位</option>
-                            <option value="creative" data-zh="创意应用" data-en="Creative">创意应用</option>
+                        <optgroup label="🎨 设计创作">
+                            <option value="poster" data-zh="海报设计" data-en="Poster">海报设计</option>
+                            <option value="logo" data-zh="Logo设计" data-en="Logo">Logo设计</option>
+                            <option value="product" data-zh="产品设计" data-en="Product">产品设计</option>
+                            <option value="ui" data-zh="UI设计" data-en="UI Design">UI设计</option>
+                            <option value="packaging" data-zh="包装设计" data-en="Packaging">包装设计</option>
+                            <option value="text" data-zh="文字设计" data-en="Text">文字设计</option>
+                        </optgroup>
+                        <optgroup label="📖 漫画传统">
+                            <option value="comic" data-zh="漫画" data-en="Comic">漫画</option>
+                            <option value="traditional" data-zh="传统文化" data-en="Traditional">传统文化</option>
+                        </optgroup>
+                        <optgroup label="🏞️ 场景自然">
+                            <option value="scene" data-zh="场景生成" data-en="Scene">场景生成</option>
+                            <option value="nature" data-zh="自然风景" data-en="Nature">自然风景</option>
+                            <option value="architecture" data-zh="建筑室内" data-en="Architecture">建筑室内</option>
+                            <option value="miniature" data-zh="微缩模型" data-en="Miniature">微缩模型</option>
+                        </optgroup>
+                        <optgroup label="📷 摄影图片">
+                            <option value="photography" data-zh="摄影" data-en="Photography">摄影</option>
+                            <option value="collage" data-zh="拼贴" data-en="Collage">拼贴</option>
+                            <option value="editing" data-zh="图像编辑" data-en="Editing">图像编辑</option>
+                        </optgroup>
+                        <optgroup label="🍔 美食植物">
+                            <option value="food" data-zh="美食" data-en="Food">美食</option>
+                            <option value="plant" data-zh="植物花卉" data-en="Plant">植物花卉</option>
+                        </optgroup>
+                        <optgroup label="🐾 动物生物">
+                            <option value="animal" data-zh="动物" data-en="Animal">动物</option>
+                        </optgroup>
+                        <optgroup label="🎮 游戏科技">
+                            <option value="game" data-zh="游戏" data-en="Game">游戏</option>
+                            <option value="tech" data-zh="科技" data-en="Tech">科技</option>
+                            <option value="technical" data-zh="技术图纸" data-en="Technical">技术图纸</option>
+                            <option value="vehicle" data-zh="交通工具" data-en="Vehicle">交通工具</option>
+                        </optgroup>
+                        <optgroup label="📊 信息教育">
+                            <option value="infographic" data-zh="信息图表" data-en="Infographic">信息图表</option>
+                            <option value="stationery" data-zh="文具书籍" data-en="Stationery">文具书籍</option>
+                        </optgroup>
+                        <optgroup label="🎄 节日主题">
+                            <option value="christmas" data-zh="圣诞主题" data-en="Christmas">圣诞主题</option>
+                        </optgroup>
+                        <optgroup label="✨ 其他">
+                            <option value="fantasy" data-zh="幻想魔法" data-en="Fantasy">幻想魔法</option>
+                            <option value="music" data-zh="音乐" data-en="Music">音乐</option>
+                            <option value="sport" data-zh="运动" data-en="Sport">运动</option>
+                            <option value="beauty" data-zh="美妆" data-en="Beauty">美妆</option>
+                            <option value="horror" data-zh="恐怖" data-en="Horror">恐怖</option>
+                            <option value="general" data-zh="其他" data-en="Other">其他</option>
                         </optgroup>
                     </select>
                 </div>
@@ -262,9 +280,9 @@
                             <td><a href="https://maynorai.top/list/#/home" target="_blank" data-zh="访问" data-en="Visit">访问</a></td>
                         </tr>
                         <tr>
-                            <td class="platform-cell"><span class="platform-icon">🎨</span> draw.claude-opus.top</td>
+                            <td class="platform-cell"><span class="platform-icon">🎨</span> claudeapp.asia</td>
                             <td data-zh="高性能渲染服务" data-en="High-performance rendering">高性能渲染服务</td>
-                            <td><a href="https://draw.claude-opus.top/list/#/home" target="_blank" data-zh="访问" data-en="Visit">访问</a></td>
+                            <td><a href="https://claudeapp.asia/list/#/home" target="_blank" data-zh="访问" data-en="Visit">访问</a></td>
                         </tr>
                         <tr>
                             <td class="platform-cell"><span class="platform-icon">🆓</span> nanobanana-free.top</td>
