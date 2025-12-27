@@ -130,9 +130,9 @@ for filename in gpt4o_files:
         if len(prompt_clean) > 500:
             prompt_clean = prompt_clean[:500] + '...'
 
-        # gpt4o 案例使用原始 id (1-988)，优先展示
+        # gpt4o 案例使用原始文件名，ID 从 1000 开始，避免与旧案例冲突
         gpt4o_cases.append({
-            'id': case_id,  # 使用原始 ID，gpt4o 案例优先展示
+            'id': case_id + 1000,  # ID 从 1000 开始
             'title': title,
             'category': category,
             'author': f"@{author}",
@@ -168,12 +168,9 @@ for line in content.split('\n'):
 
 print(f"从旧版本提取了 {len(old_cases)} 个案例")
 
-# 旧案例 ID 从 1000 开始
-for case in old_cases:
-    case['id'] = case['id'] + 1000
-
-# 合并：gpt4o案例在前(1-988)，旧案例在后(1000+)
-all_cases = gpt4o_cases + old_cases
+# 旧案例保持原 ID (1-371)，gpt4o 案例从 1000 开始
+# 合并：旧案例在前(1-371)，gpt4o案例在后(1000-1988)
+all_cases = old_cases + gpt4o_cases
 
 print(f"总共 {len(all_cases)} 个案例")
 
