@@ -25,6 +25,27 @@ Google 的 AI 攻势没有半点减弱的迹象。如果说前几天 Gemini 3 Pr
 
 ![Nano Banana Pro](https://raw.githubusercontent.com/xianyu110/awesome-nanobananapro-prompts/main/gpt4o-image-prompts-master/images/202511211719380.png)
 
+---
+
+## 🌐 使用平台
+
+### 国际访问
+
+- https://aistudio.google.com/apps
+- https://gemini.google.com
+
+### 国内访问渠道
+
+- https://maynorai.top/list/#/home
+- https://draw.claude-opus.top/list/#/home
+- https://nanobanana-free.top/
+
+### 代理 API
+
+- https://apipro.maynor1024.live/
+
+---
+
 ## ⚡ 核心功能
 
 | 功能特性 | 描述 |
