@@ -99,6 +99,7 @@ for filename in gpt4o_files:
             prompt_match = re.search(r'\*\*提示词：\*\*\n```\n(.*?)\n```', case_content, re.DOTALL)
         cn_prompt = prompt_match.group(1).strip() if prompt_match else ""
 
+        # 提取图片文件名 - 直接使用 README 中引用的原始文件名
         images = re.findall(r'<img src="./images/([^"]+)"', case_content)
 
         category = 'general'
@@ -121,17 +122,8 @@ for filename in gpt4o_files:
         if not tags:
             tags.append('AI绘图')
 
-        # 使用 case_id 作为图片文件名，确保图片和提示词匹配
-        # 检查文件扩展名：优先使用 .png，其次 .jpeg，最后 .jpg
-        import os
-        base_path = 'gpt4o-image-prompts-master/images'
-        ext = '.png'
-        if not os.path.exists(f"{base_path}/{case_id}.png"):
-            if os.path.exists(f"{base_path}/{case_id}.jpeg"):
-                ext = '.jpeg'
-            elif os.path.exists(f"{base_path}/{case_id}.jpg"):
-                ext = '.jpg'
-        img = f"{case_id}{ext}"
+        # 使用 README 中引用的原始图片文件名，确保图片和提示词匹配
+        img = images[0] if images else f"{case_id}.png"
 
         # 限制 prompt 长度并转义
         prompt_clean = cn_prompt.replace('\\', '\\\\').replace('"', '\\"').replace('\n', '\\n')
