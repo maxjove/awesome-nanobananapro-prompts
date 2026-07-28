@@ -289,6 +289,7 @@ We welcome contributions of more high-quality prompt examples to this project!
 ### Related Projects
 
 - [awesome-nano-banana](https://github.com/xianyu110/awesome-nano-banana) - The most comprehensive AI text-to-image prompt website [Visit Online](https://xianyu110.github.io/awesome-nano-banana/)
+- [GPT Image 2](https://gptimage2.asia/) - AI image generation and editing workflow for marketing visuals, e-commerce product images, social posts, and brand assets.
 
 ## Contributors
 
