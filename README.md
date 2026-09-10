@@ -36,13 +36,13 @@ Google 的 AI 攻势没有半点减弱的迹象。如果说前几天 Gemini 3 Pr
 
 ### 国内访问渠道
 
-- https://maynorai.top/list/#/home
+- https://trygpt.asia/list/#/home
 - https://claudeapp.asia/list/#/home
 - https://nanobanana-free.top/
 
 ### 代理 API
 
-- https://apipro.maynor1024.live/
+- https://tryallapi.com/
 
 ---
 
@@ -594,14 +594,14 @@ Prompt: A high-resolution photograph of a gold coin featuring the [COMPANY NAME]
 
 | 平台 | 描述 | 链接 |
 |-----|------|-----|
-| 🎯 maynorai.top | 稳定可靠的国内镜像 | [访问](https://maynorai.top/list/#/home) |
+| 🎯 maynorai.top | 稳定可靠的国内镜像 | [访问](https://trygpt.asia/list/#/home) |
 | 🎨 draw.claude-opus.top | 高性能渲染服务 | [访问](https://claudeapp.asia/list/#/home) |
 | 🆓 nanobanana-free.top | 免费体验站点 | [访问](https://nanobanana-free.top/) |
 | ⚡ pro.nanobanana-free.top | 专业版体验站点 | [访问](https://pro.nanobanana-free.top/) |
 
 ### 中转API
 
-- [apipro.maynor1024.live](https://apipro.maynor1024.live/) - 付费API服务
+- [tryallapi.com](https://tryallapi.com/) - 付费API服务
 
 ### 官方平台
 

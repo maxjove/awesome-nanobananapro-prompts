@@ -36,13 +36,13 @@ The newly released **Nano Banana Pro (Gemini 3 Pro Image)** delivers another pow
 
 ### Domestic Access Channels (China)
 
-- https://maynorai.top/list/#/home
+- https://trygpt.asia/list/#/home
 - https://claudeapp.asia/list/#/home
 - https://nanobanana-free.top/
 
 ### Proxy API
 
-- https://apipro.maynor1024.live/
+- https://tryallapi.com/
 
 ---
 
@@ -272,14 +272,14 @@ We welcome contributions of more high-quality prompt examples to this project!
 
 | Platform | Description | Link |
 |----------|-------------|------|
-| 🎯 maynorai.top | Stable reliable domestic mirror | [Visit](https://maynorai.top/list/#/home) |
+| 🎯 maynorai.top | Stable reliable domestic mirror | [Visit](https://trygpt.asia/list/#/home) |
 | 🎨 claudeapp.asia | High-performance rendering service | [Visit](https://claudeapp.asia/list/#/home) |
 | 🆓 nanobanana-free.top | Free experience site | [Visit](https://nanobanana-free.top/) |
 | ⚡ pro.nanobanana-free.top | Professional experience site | [Visit](https://pro.nanobanana-free.top/) |
 
 ### Proxy API
 
-- [apipro.maynor1024.live](https://apipro.maynor1024.live/) - Paid API service
+- [tryallapi.com](https://tryallapi.com/) - Paid API service
 
 ### Official Platforms
 
